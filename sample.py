@@ -1,5 +1,5 @@
-a=3
-b=5
-c=2
+a=30
+b=50
+c=20
 sum=a+b+c
 print sum
