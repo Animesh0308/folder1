@@ -1,4 +1,5 @@
 a=3
 b=5
-sum=a+b
+c=2
+sum=a+b+c
 print sum
